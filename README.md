@@ -25,6 +25,6 @@ The following are projects (you might notice that most of them are coding challe
 - [conquer](https://medium.com/@julianagmz/how-i-made-this-responsive-web-page-and-what-i-learned-doing-it-f0ea2fd00e88)
 - [sight](https://medium.com/@julianagmz/how-i-made-this-spa-and-what-i-learned-doing-it-b56ec604b26a)
 - [submit form](https://codepen.io/jgmz2/full/LeWVYL/) - I redid this recently for an application to Shopify so this is the latest
-- [gist finder](https://gistfinder.herokuapp.com/)
+- [gist finder](https://medium.com/@julianagmz/how-i-made-this-gist-finder-and-what-i-learned-doing-it-83fdea74a449)
 
 If you have any questions, I'd be happy to help!
